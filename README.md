@@ -8,7 +8,7 @@ I'm a fast learner with many interests, so there's always more to learn. I like 
 
 Here are some ideas to get you started:
 -->
-- 🔭 I have a genuine interest in the business context of m work and an ability to help translate that into a deliverable code that is appropriate rather than generic. I apply a practical approach to problem-solving in a friendly and direct manner. My real world is equally concentrated with the virtual world to bring a vast array of skills that nobody else can offer on this platform. I boast of remarkable years of Programming Experience and have developed remarkable apps for major clients.
+I have a genuine interest in the business context of m work and an ability to help translate that into a deliverable code that is appropriate rather than generic. I apply a practical approach to problem-solving in a friendly and direct manner. My real world is equally concentrated with the virtual world to bring a vast array of skills that nobody else can offer on this platform. I boast of remarkable years of Programming Experience and have developed remarkable apps for major clients.
 
 I will help you with an idea to prototype, design, development, test, and maintenance - the complete product development life cycle.
 
