@@ -29,21 +29,3 @@ more...
 
 I have a very broad background and can handle your entire project. My code is clean, solid, modular, tested as it is developed, and highly readable, With the help of my skills, your project will be successful! Let's get a touch and work together!
 
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="Java" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-
-  <img alt="React Native" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue-dot-js&logoColor=white&style=flat" />
-  <img alt="Objective-C" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
-  <img alt="Firebase" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-  
-  <img alt="Node.js" src="https://img.shields.io/badge/NestJs-E0234E?logo=nestjs&logoColor=white&style=flat" />
-  <img alt="Flutter" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=flat" />
-  
-  <img alt="Angular" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
-  <img alt="Ionic" src="https://img.shields.io/badge/mongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  
-  <img alt="MongoDB" src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=flat" />
-</p>
